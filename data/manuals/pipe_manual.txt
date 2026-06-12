@@ -1,0 +1,7 @@
+Pipe leakage repair steps:
+
+1. Turn off water supply
+2. Identify leak location
+3. Replace damaged pipe section
+4. Apply sealant
+5. Restart system
